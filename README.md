@@ -22,5 +22,4 @@ docker push <username>/<repo>:<tag>
 
 > [!NOTE]
 > - After completing the above process, you can view the image information on the [docker hub](https://hub.docker.com/repository/docker/filswan/helloworld/general), as shown below:
-
-![img.png](img.png)
+![img](https://github.com/user-attachments/assets/188d1415-747f-4c0e-a053-43ea587ea5fd)
